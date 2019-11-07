@@ -41,20 +41,20 @@ section{
     background: black;
 }
 .chicken{
-    background-color:#900C3F;
+    background-color:#FFEFD5;
 }
 .beef-head{
     background: crimson;
 }
 .beef{
   
-    background-color:#0E96DA;   
+    background-color:#FFEFD5;   
 }
 .sushi-head{
     background: darkviolet;
 }
 .sushi{
-    background-color:#FFC300;
+    background-color:#FFEFD5;
 }
 header{
     border: blanchedalmond 2px solid;
